@@ -1,4 +1,0 @@
-Hello my Git 1st repo
-change 2
-change 3
-change 3
